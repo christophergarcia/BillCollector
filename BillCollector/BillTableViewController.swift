@@ -11,6 +11,7 @@ import UIKit
 class BillTableViewController: UITableViewController {
     
     // MARK: Properties
+    //test
     
     @IBOutlet weak var total: UILabel!
     @IBOutlet weak var nextTotal: UILabel!
